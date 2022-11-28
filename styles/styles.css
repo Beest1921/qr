@@ -1,0 +1,51 @@
+body{
+    background-color:  hsl(220, 15%, 55%);
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+   
+  
+  
+}
+.main-div{
+   
+    background-color: white;
+    border-radius: 15px;
+    position: absolute;
+    top: 120px;
+    left: 40%;
+    margin: auto;
+    width:280px;
+    height: 420px;
+   
+}
+h3{
+    font-weight: 700;
+    margin-top: 0;
+}
+p{
+    font-size: 13px;
+    color: gainsboro;
+}
+
+.in-div{
+    margin: 0;
+    height: 250px;
+}
+
+
+.img{
+  margin: 35px 40px 20px;
+  width: 70%;
+  border-radius: 15px;
+  
+
+   
+}
+
+.in-div2{
+    margin: 10px 10px;
+    text-align: center;
+}
+
+
+
